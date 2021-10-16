@@ -6,9 +6,9 @@ In this challenge, I used unsupervised learning algorithms (KMeans, PCA) to crea
 
 [scikit-learn](https://scikit-learn.org/stable/) - For machine learning algorithms.
 
-`from sklearn.cluster import KMeans
-from sklearn.decomposition import PCA
-from sklearn.preprocessing import StandardScaler`
+`from sklearn.cluster import KMeans`
+`from sklearn.decomposition import PCA`
+`from sklearn.preprocessing import StandardScaler`
 
 [pandas](https://pandas.pydata.org/docs/) - For data structuring and analysis.
 
